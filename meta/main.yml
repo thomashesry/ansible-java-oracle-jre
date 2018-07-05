@@ -28,6 +28,5 @@ galaxy_info:
     - oracle
 
 dependencies:
-  - src: andrewrothstein.java_oracle
-    version: v1.0.8
+  - src: thomashesry.ansible_java_oracle
     java_oracle_prefix: jre
