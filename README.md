@@ -1,6 +1,5 @@
-andrewrothstein.java-oracle-jre
+thomashesry.ansible_java_oracle_jre
 =========
-[![Build Status](https://travis-ci.org/andrewrothstein/ansible-java-oracle-jre.svg?branch=master)](https://travis-ci.org/andrewrothstein/ansible-java-oracle-jre)
 
 Oracle JRE
 
@@ -25,7 +24,7 @@ Example Playbook
 ```yml
 - hosts: servers
   roles:
-    - andrewrothstein.java-oracle-jre
+    - thomashesry.ansible_java_oracle_jre
 ```
 
 License
